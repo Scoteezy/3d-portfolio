@@ -20,9 +20,6 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 
 import hoobank from './hoobank.png'
 import countries from './countries.png'
@@ -51,9 +48,6 @@ export {
   tailwind,
   typescript,
   threejs,
-  carrent,
-  jobit,
-  tripguide,
   hoobank,
   countries,
   ecommerce,
